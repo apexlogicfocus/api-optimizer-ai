@@ -1,13 +1,5 @@
 # 🔮 API Optimizer AI — Intelligent API Telemetry, Performance Optimization & Business Intelligence Platform
 
-[![Build Status](https://img.shields.io/badge/CI%2FCD-Passing-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/abdulrahmanrifayath/api-optimizer-ai/actions)
-[![React](https://img.shields.io/badge/React-19.0-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-2.0-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Python](https://img.shields.io/badge/Python-3.13-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479a1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![Docker](https://img.shields.io/badge/Docker-Containers-2496ed?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![License](https://img.shields.io/badge/License-MIT-a855f7?style=for-the-badge)](LICENSE)
-
 An enterprise-grade, full-stack API telemetry ingestion, performance optimization, machine learning traffic forecasting, and executive business intelligence platform. Built with **React 19**, **FastAPI (Python 3.13)**, **MySQL 8.0**, and a **Cyber Neon Violet Glassmorphism** user interface.
 
 ---
@@ -95,7 +87,7 @@ Make sure [Docker Desktop](https://www.docker.com/products/docker-desktop/) is i
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/abdulrahmanrifayath/api-optimizer-ai.git
+git clone https://github.com/apexlogicfocus/api-optimizer-ai.git
 cd api-optimizer-ai
 
 # 2. Build and launch all containers
@@ -192,6 +184,3 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-<p center>
-  Developed with ❤️ by <a href="https://github.com/abdulrahmanrifayath">Abdulrahman Rifayath</a>
-</p>
